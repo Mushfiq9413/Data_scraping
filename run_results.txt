@@ -1,0 +1,2549 @@
+{
+ "product": [
+  {
+   "name": "Men's Running Shoes",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_shoes_sr_pg1_1?ie=UTF8&adId=A05421903IJPU9X5VCYTZ&url=%2FActeo-Mens-Running-Shoes-8-AC1036-Red%2Fdp%2FB07XLB3FRM%2Fref%3Dsr_1_1_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573972525%26s%3Dshoes%26sr%3D1-1-spons%26psc%3D1&qualifier=1573972525&id=1107687575420266&widgetName=sp_atf",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/71g7Pp+VWHL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Heel Height: 0.5 centimeters"
+    },
+    {
+     "description": "Shoe Width: Regular"
+    },
+    {
+     "description": "Outer Material: Synthetic Leather"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Heel type: cone heel"
+    },
+    {
+     "description": "Heel Height: 0.5 centimeters"
+    }
+   ]
+  },
+  {
+   "name": "sohamseller Men's Formals Shoes",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_shoes_sr_pg1_2?ie=UTF8&adId=A10091693HBM2KVSBIK6Y&url=%2Fsohamseller-Mens-Formals-Shoes-Grey%2Fdp%2FB081FBY4DY%2Fref%3Dsr_1_2_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573972525%26s%3Dshoes%26sr%3D1-2-spons%26psc%3D1&qualifier=1573972525&id=1107687575420266&widgetName=sp_atf",
+   "price": "439",
+   "image": "https://m.media-amazon.com/images/I/61JKhrpGhvL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: PVC"
+    },
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Shoe Width: Medium"
+    },
+    {
+     "description": "Closure: Slip-on; Handmade; Active Shoes"
+    },
+    {
+     "description": "Allow your pair of shoes to air and de-odorize at a regular basis. This also helps them retain their natural shape. Use shoe bags to prevent any stains or mildew."
+    },
+    {
+     "description": "FEATURE : Extremely lightweight material , It is nice affordable shoes for everyday use, or wedding or formal occasion. Padded collar with a soft lining , Cushioned memory foam insole, This unique design and stylish Shoe is to maximize your fashion at the fairest price possible."
+    },
+    {
+     "description": "Specially designed for Men"
+    },
+    {
+     "description": "Fashionable & comfortable which add to your style quotient"
+    }
+   ]
+  },
+  {
+   "name": "sohamseller Children's Formals Lofar Shoes",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_shoes_sr_pg1_3?ie=UTF8&adId=A02372442E5Z1ZMRMTU5D&url=%2Fsohamseller-Mens-Formals-Lofar-Shoes%2Fdp%2FB081F9ZBYN%2Fref%3Dsr_1_3_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573972525%26s%3Dshoes%26sr%3D1-3-spons%26psc%3D1&qualifier=1573972525&id=1107687575420266&widgetName=sp_atf",
+   "price": "489",
+   "image": "https://m.media-amazon.com/images/I/51JOuIiumpL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: PVC"
+    },
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Shoe Width: Medium"
+    },
+    {
+     "description": "Closure: Slip-on; Handmade; Active Shoes"
+    },
+    {
+     "description": "Allow your pair of shoes to air and de-odorize at a regular basis. This also helps them retain their natural shape. Use shoe bags to prevent any stains or mildew."
+    },
+    {
+     "description": "FEATURE : Extremely lightweight material , It is nice affordable shoes for everyday use, or wedding or formal occasion. Padded collar with a soft lining , Cushioned memory foam insole, This unique design and stylish Shoe is to maximize your fashion at the fairest price possible."
+    },
+    {
+     "description": "Specially designed for Men"
+    },
+    {
+     "description": "Fashionable & comfortable which add to your style quotient"
+    }
+   ]
+  },
+  {
+   "name": "ACSS-3632 Men's Navy Comfortable Walking Shoes",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_shoes_sr_pg1_4?ie=UTF8&adId=A0879399J13P0I896YWI&url=%2FAllen-Cooper-ACSS-3632-Comfortable-Walking%2Fdp%2FB07Y999PX7%2Fref%3Dsr_1_4_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573972525%26s%3Dshoes%26sr%3D1-4-spons%26psc%3D1&qualifier=1573972525&id=1107687575420266&widgetName=sp_atf",
+   "price": "999",
+   "image": "https://m.media-amazon.com/images/I/71Tet0meOUL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Shoe Width: Medium"
+    },
+    {
+     "description": "ULTRA LIGHTWEIGHT & STRONG: Made with performance in mind, these comfortable walking shoes for men offer the right balance of quality and performance. Thanks to their lightweight these allow you to move around effortlessly and offer more bounce as well as being durable enough for long term use."
+    },
+    {
+     "description": "COMFY & STYLISH: These Allen Cooper Ultra Comfortable walking shoes uses extra soft fabric in flyknit upper along with comfortable padding with heel & arch support. Our mens walking sneakers use a unique and fashionable design that matches with most clothing so that you look good and feel good."
+    },
+    {
+     "description": "\"Non-slip comfortable EVA soles offer more traction and reduce risk of slipping, Breathable and soft flyknit upper allows your feet to breathe when walking \""
+    },
+    {
+     "description": "EVA comfortable Outsole Provides Long Wear Durability"
+    },
+    {
+     "description": "Durable and comfortable EVA soles, soft and flexible. These sole have a high bearing, traction, cushion capability and are very comfortable to wear all day long."
+    }
+   ]
+  },
+  {
+   "name": "Bourge Men's Vega-3 Running Shoes",
+   "url": "https://www.amazon.in/Bourge-Vega-3-Running-Shoes-8-Vega-3-R-Blue-08/dp/B07MFJT5JW/ref=sxin_4_pb?fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&pd_rd_i=B07MFJT5JW&pd_rd_r=f08832ae-eb9b-4f5f-afad-c07bd21b6a96&pd_rd_w=72oEC&pd_rd_wg=JT8LT&pf_rd_p=36151299-9e96-4246-a532-3234e431dfe7&pf_rd_r=PS5T8YQ5GQERK3CB07V9&qid=1573972525&s=shoes",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/81swJXNU3cL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Product Type: Running Shoes"
+    },
+    {
+     "description": "Closure Type: Slip On"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 90 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; Use Shoe bags to prevent any stains or mildew; Dust any dry dirt from the surface using a clean cloth; Do not use Polish or Shiner"
+    }
+   ]
+  },
+  {
+   "name": "Bourge Men's Vega-2 Running Shoes",
+   "url": "https://www.amazon.in/Bourge-Vega-2-Running-Shoes-9-Vega-2-White-09/dp/B07MFJT9QK/ref=sxin_4_pb?fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&pd_rd_i=B07MFJT9QK&pd_rd_r=f08832ae-eb9b-4f5f-afad-c07bd21b6a96&pd_rd_w=72oEC&pd_rd_wg=JT8LT&pf_rd_p=36151299-9e96-4246-a532-3234e431dfe7&pf_rd_r=PS5T8YQ5GQERK3CB07V9&qid=1573972525&s=shoes",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/71xjK1bovUL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Product Type: Running Shoes"
+    },
+    {
+     "description": "Closure Type: Slip On"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 90 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; Use Shoe bags to prevent any stains or mildew; Dust any dry dirt from the surface using a clean cloth; Do not use Polish or Shiner"
+    }
+   ]
+  },
+  {
+   "name": "Fusefit Men's Burpy Running Shoes",
+   "url": "https://www.amazon.in/Fusefit-Burpy-Running-Shoes-8-FFR-198/dp/B07KSNF6SR/ref=sxin_4_pb?fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&pd_rd_i=B07KSNF6SR&pd_rd_r=f08832ae-eb9b-4f5f-afad-c07bd21b6a96&pd_rd_w=72oEC&pd_rd_wg=JT8LT&pf_rd_p=36151299-9e96-4246-a532-3234e431dfe7&pf_rd_r=PS5T8YQ5GQERK3CB07V9&qid=1573972525&s=shoes",
+   "price": "465",
+   "image": "https://m.media-amazon.com/images/I/81SS-huQH0L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Product Type: Running Shoes"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 90 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; Use Shoe bags to prevent any stains or mildew; Dust any dry dirt from the surface using a clean cloth; Do not use Polish or Shiner"
+    }
+   ]
+  },
+  {
+   "name": "Extacy By Red Chief Men's EXT144 Leather Formal Shoes",
+   "url": "https://www.amazon.in/Extacy-Red-Chief-Leather-EXT144_003_8/dp/B07M8SMJCK/ref=sxin_4_pb?fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&pd_rd_i=B07M8SMJCK&pd_rd_r=f08832ae-eb9b-4f5f-afad-c07bd21b6a96&pd_rd_w=72oEC&pd_rd_wg=JT8LT&pf_rd_p=36151299-9e96-4246-a532-3234e431dfe7&pf_rd_r=PS5T8YQ5GQERK3CB07V9&qid=1573972525&s=shoes",
+   "price": "1,319",
+   "image": "https://m.media-amazon.com/images/I/81YddzxK7WL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Material: Leather"
+    },
+    {
+     "description": "Lifestyle: Business"
+    },
+    {
+     "description": "Product Type: Men's Formal Shoes"
+    },
+    {
+     "description": "Closure Type: Slip On"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 60 days"
+    },
+    {
+     "description": "Care Instructions: Clean your shoes with leather cleaner or leather shampoo, and use a good quality brush to remove loose surface dirt; if your shoes are wet after cleaning, let them air-dry before your proceed with the next step; dry shoes in room temperature only and never expose them to the sun, heat from the sun will cause the leather to shrink, wrinkle, harden, dry, and crack"
+    }
+   ]
+  },
+  {
+   "name": "Fusefit Men's Running Shoes",
+   "url": "https://www.amazon.in/Fusefit-Maroon-Running-Shoes-6-FFR-135/dp/B07HKHFNXZ/ref=sxin_4_pb?fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&pd_rd_i=B07HKHFNXZ&pd_rd_r=f08832ae-eb9b-4f5f-afad-c07bd21b6a96&pd_rd_w=72oEC&pd_rd_wg=JT8LT&pf_rd_p=36151299-9e96-4246-a532-3234e431dfe7&pf_rd_r=PS5T8YQ5GQERK3CB07V9&qid=1573972525&s=shoes",
+   "price": "487",
+   "image": "https://m.media-amazon.com/images/I/710XFLPDJVL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Product Type: Running Shoes"
+    },
+    {
+     "description": "Closure Type: Slip On"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 90 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; Use Shoe bags to prevent any stains or mildew; Dust any dry dirt from the surface using a clean cloth; Do not use Polish or Shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Air Series Mesh Casual,Walking,Running/Gymwear Shoes",
+   "url": "https://www.amazon.in/layasa-Mens-Black-Canvas-Shoes/dp/B07P9WW21W/ref=sr_1_5?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-5",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/41juN+zGOKL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: fabric"
+    },
+    {
+     "description": "Closure: Speed Laces"
+    },
+    {
+     "description": "✅Lifestyle:-sports, running ,walking, gym, casual, sneakers, partywear✔️"
+    },
+    {
+     "description": "✅NOTE:- BRAND: Layasa ✔️"
+    },
+    {
+     "description": "✅Best for: Competitive road racing, track workouts✔️"
+    },
+    {
+     "description": "✅Comfortable quality footwear light weight attractive design multi purpose.✔️"
+    },
+    {
+     "description": "✅Ultra thin layer of high abrasion rubber strategically placed on the outsole for targeted traction✔️"
+    }
+   ]
+  },
+  {
+   "name": "Shoes Wonder-13 Grey Firozi Mesh Shoes",
+   "url": "https://www.amazon.in/Asian-shoes-Running-Firozi-Indian/dp/B01N54ZM9W/ref=sr_1_6?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-6",
+   "price": "430.",
+   "image": "https://m.media-amazon.com/images/I/61utX8kBDlL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Colour: Grey Firozi"
+    },
+    {
+     "description": "LifeStyle: Sports"
+    },
+    {
+     "description": "Closer : Lace Up"
+    },
+    {
+     "description": "Specially designed for Indian Men's feet"
+    }
+   ]
+  },
+  {
+   "name": "Men's Air Series Mesh Casual,Walking,Running/Gymwear Shoes",
+   "url": "https://www.amazon.in/Amico-Casual-Walking-Running-Gymwear/dp/B07QP7Z12F/ref=sr_1_7?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-7",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/41WbYtb5JKL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "✅Outer Material:Mesh✔️"
+    },
+    {
+     "description": "✅Sole Material: PU✔️"
+    },
+    {
+     "description": "✅Outer Material: Mesh PU, Lifestyle: Casual✔️"
+    },
+    {
+     "description": "✅Speciality: Light Weight And Comfortable✔️"
+    },
+    {
+     "description": "✅Closure type: Lace-Up✔️"
+    }
+   ]
+  },
+  {
+   "name": "Men's Comfortable Mesh Lace up Sport's/Running/Walking/Gym/Jogging/Unisex Shoe",
+   "url": "https://www.amazon.in/HEEDERIN-Comfortable-Running-Walking-Jogging/dp/B07V9PRXZH/ref=sr_1_8?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-8",
+   "price": "449",
+   "image": "https://m.media-amazon.com/images/I/81kU1w12W-L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: Air Mix"
+    },
+    {
+     "description": "Closure: Lace up"
+    },
+    {
+     "description": "Brand: HEEDERIN"
+    },
+    {
+     "description": "Classic Fashionable Footwear Showing Ultimate Trend ,Vogue And Comfort"
+    },
+    {
+     "description": "Light Weight And Durable, Optimal Flexibility, comfortable and stylish"
+    },
+    {
+     "description": "Warranty: 7 days warranty on manufacturing defects"
+    },
+    {
+     "description": "Care Instruction: Use shoe bags to prevent any stains, dust any dry dirt from the surface using a clean cloth"
+    }
+   ]
+  },
+  {
+   "name": "Men' S Mesh Running Sports Walking Casual Sneakers Shoes",
+   "url": "https://www.amazon.in/BUCADIA-Running-Sports-Walking-Sneakers/dp/B07X2726NN/ref=sr_1_9?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-9",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/41t+gXq6Q6L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: Rubber✔️"
+    },
+    {
+     "description": "Closure: Lace-Up✔️"
+    },
+    {
+     "description": "✅NOTE:- BRAND BUCADIA✔️"
+    },
+    {
+     "description": "✅Product colour may slightly vary due to photographic lighting sources or your monitor settings✔️"
+    },
+    {
+     "description": "✅Comfortable quality footwear light weight attractive design multi purpose.✔️"
+    },
+    {
+     "description": "✅Lifestyle:-sports, running ,walking, gym, casual, sneakers, partywear✔️"
+    },
+    {
+     "description": "✅30 days warranty on manufacturing defects✔️"
+    }
+   ]
+  },
+  {
+   "name": "Men's Casual Shoes in White Color Walking Running Gymwear Sports Sneakers for Daily use",
+   "url": "https://www.amazon.in/Inklenzo-Walking-Running-Gymwear-Sneakers/dp/B07X92SKBD/ref=sr_1_10?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-10",
+   "price": "543",
+   "image": "https://m.media-amazon.com/images/I/81TwqU4-ZdL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: rubber"
+    },
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Provides Comfort for daily office use and party wear"
+    },
+    {
+     "description": "Lifestyle: Formal or casual, slip on shoes"
+    },
+    {
+     "description": "Where can use it: special meeting, office, wedding, corporate, all festival, and regular use etc."
+    },
+    {
+     "description": "Fashionable & comfortable which add to your style quotient"
+    },
+    {
+     "description": "109 % Genuine & fit as expected"
+    }
+   ]
+  },
+  {
+   "name": "Men's Air Series Mesh Sports Running Shoes",
+   "url": "https://www.amazon.in/layasa-Mens-Mesh-Running-Shoes/dp/B07MGLJWSK/ref=sr_1_11?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-11",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/91y2lQZhswL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: Air-Mix"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Lifestyle: sports, running ,walking, gym, casual, sneakers, partywear"
+    },
+    {
+     "description": "Note: brand: layasa"
+    },
+    {
+     "description": "Best for: competitive road racing, track workouts"
+    },
+    {
+     "description": "Comfortable quality footwear light weight attractive design multi purpose."
+    },
+    {
+     "description": "Ultra thin layer of high abrasion rubber strategically placed on the outsole for targeted traction"
+    }
+   ]
+  },
+  {
+   "name": "Men's Sports Shoe Navy Blue 8",
+   "url": "https://www.amazon.in/Ethics-Mens-Sports-Shoe-Navy/dp/B0796WZFLB/ref=sr_1_12?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-12",
+   "price": "369",
+   "image": "https://m.media-amazon.com/images/I/41cnD2yYcYL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA"
+    }
+   ]
+  },
+  {
+   "name": "Men's Sm-323 Dip Canvas Shoes - Black",
+   "url": "https://www.amazon.in/Sparx-Mens-Sneakers-8-India-SD0323G/dp/B077N7DDL1/ref=sr_1_13?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-13",
+   "price": "589",
+   "image": "https://m.media-amazon.com/images/I/81OYDQEy9qL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: manmade"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Color :Black"
+    },
+    {
+     "description": "Department : Men"
+    },
+    {
+     "description": "Material : Canvas"
+    }
+   ]
+  },
+  {
+   "name": "Perfect Navy Blue Sport Shoes for Men (7, Navy Blue)",
+   "url": "https://www.amazon.in/Ethics-Perfect-Navy-Sport-Shoes/dp/B07CRBTCTF/ref=sr_1_14?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-14",
+   "price": "369",
+   "image": "https://m.media-amazon.com/images/I/51WhmRsN9LL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA"
+    }
+   ]
+  },
+  {
+   "name": "Perfect Navy Blue Sport Shoes for Men (6, Navy Blue)",
+   "url": "https://www.amazon.in/Ethics-Perfect-Navy-Sport-Shoes/dp/B0796XQR43/ref=sr_1_15?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-15",
+   "price": "369",
+   "image": "https://m.media-amazon.com/images/I/41cnD2yYcYL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA"
+    }
+   ]
+  },
+  {
+   "name": "Men's Running Sports Shoes",
+   "url": "https://www.amazon.in/Shozie-Mens-Running-Sports-Shoes/dp/B07MSJK1B5/ref=sr_1_16?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-16",
+   "price": "449",
+   "image": "https://m.media-amazon.com/images/I/71A4FOEgLnL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "Material Type: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports Shoes, Running Shoes"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Regular: Comfort"
+    },
+    {
+     "description": "Product Colour May Slightly Vary Due To Photographic Lighting Sources Or Your Monitor Settings."
+    }
+   ]
+  },
+  {
+   "name": "Men' S BADLAV Mesh White Running Sports Walking Casual Sneakers Shoes",
+   "url": "https://www.amazon.in/MEGPAR-Running-Walking-Sneakers-Shoes-8/dp/B07V43CSC3/ref=sr_1_17?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-17",
+   "price": "375",
+   "image": "https://m.media-amazon.com/images/I/31-8bMZIjRL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: rubber✔️"
+    },
+    {
+     "description": "Closure: Lace-Up✔️"
+    },
+    {
+     "description": "✅NOTE:- BRAND BADLAV✔️"
+    },
+    {
+     "description": "✅Comfortable quality footwear light weight attractive design multi purpose.✔️"
+    },
+    {
+     "description": "✅Lifestyle:-sports, running ,walking, gym, casual, sneakers, partywear✔️"
+    },
+    {
+     "description": "✅Product colour may slightly vary due to photographic lighting sources or your monitor settings✔️"
+    },
+    {
+     "description": "✅30 days warranty on manufacturing defects✔️"
+    }
+   ]
+  },
+  {
+   "name": "Men's Canvas Sneakers",
+   "url": "https://www.amazon.in/Sparx-Mens-Black-Sneakers-SM-162/dp/B00IZ95T7C/ref=sr_1_18?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-18",
+   "price": "798",
+   "image": "https://m.media-amazon.com/images/I/71DpKilMkrL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Target audience: Men's"
+    },
+    {
+     "description": "Closure type: Speed laces"
+    }
+   ]
+  },
+  {
+   "name": "SRV Relax Sports Shoes for Boys (Sizes- Boys: 2-5, Men: 6-10)",
+   "url": "https://www.amazon.in/TRASE-Relax-Grey-Orange-Sports-Boys-4C/dp/B07RYLSLNN/ref=sr_1_19?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-19",
+   "price": "459",
+   "image": "https://m.media-amazon.com/images/I/81uZqlNgGxL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material: Synthetic Leather"
+    },
+    {
+     "description": "Sole: EVA;Lightweight;Padded Footbed"
+    },
+    {
+     "description": "Closure Type: Lace-Up ;Perfect Fit"
+    },
+    {
+     "description": "Lifestyle: Sport, Casual & Running Shoes"
+    },
+    {
+     "description": "Care Instructions: Rotate your pair of shoes once every other day, allowing them to de-odorize and retain their shapes. Dust any dry dirt from the surface using a clean cloth. Do not use Polish or Shiner."
+    }
+   ]
+  },
+  {
+   "name": "Men's Pilot Blue Black Casual Loafer Shoes",
+   "url": "https://www.amazon.in/ETHICS-Pilot-Black-Casual-Loafer/dp/B07TRGLMQH/ref=sr_1_20?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-20",
+   "price": "298",
+   "image": "https://m.media-amazon.com/images/I/61hvCYk+yUL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Brand:Ethics"
+    },
+    {
+     "description": "Speciality: Light Weight and comfortable"
+    },
+    {
+     "description": "Closure Type:Laced Up"
+    },
+    {
+     "description": "Outer Material: Synthetic Leather & EVA"
+    },
+    {
+     "description": "Note : Product colour may slightly vary due to photographic lighting sources or your monitor settings"
+    }
+   ]
+  },
+  {
+   "name": "Men's Vc 3101 High Top Synthetic Shoes - Black",
+   "url": "https://www.amazon.in/ESSENCE-Mens-Blue-3101-Shoes-5/dp/B0792NDMJH/ref=sr_1_21?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-21",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/71cSa-wuJxL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Outer Material: Synthetic, Inner Material: Mesh"
+    },
+    {
+     "description": "Sole Material: TPR"
+    },
+    {
+     "description": "Color: Black"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Occasion: Casual"
+    }
+   ]
+  },
+  {
+   "name": "Men's Leather Casual Shoes",
+   "url": "https://www.amazon.in/Shoes-Bank-Casual-Blue-Leather/dp/B06X6BBMD6/ref=sr_1_22?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-22",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/415zPYzVTaL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: TPR"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Outer Material: Synthetic leather, Inner Material: Cotton"
+    },
+    {
+     "description": "Sole Material: TPR"
+    },
+    {
+     "description": "Color: Blue"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Occasion: Casual"
+    }
+   ]
+  },
+  {
+   "name": "Men-1200 Black Top Best Rates Training Shoes,Sports Shoes, Running Shoes For Men,Cricket Shoes,Casual Shoes,Loafers Shoes,Sneakers Shoes,Light Weight, Football Shoes,Comfortable For Men'S",
+   "url": "https://www.amazon.in/Men-1200-Training-Sneakers-Football-Comfortable/dp/B07YLN87WK/ref=sr_1_23?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-23",
+   "price": "298",
+   "image": "https://m.media-amazon.com/images/I/71HieyMuWpL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: PVC"
+    },
+    {
+     "description": "Closure: Lace-Ups"
+    },
+    {
+     "description": "Sole: PVC || Closure : Lace-Ups ||Color : Black || Toe Style: Closed Toe."
+    },
+    {
+     "description": "Elevate your style with this classy pair of Casual Shoes from the house of World wear footwear."
+    },
+    {
+     "description": "Top Rated, Best Rates Training Shoes,Walking Shoes,Gym Shoes ,Sports Shoes, Running Shoes For Men,Cricket Shoes,Casual Shoes,Trekking Shoes,Comfortable For Men'S"
+    },
+    {
+     "description": "The Footwear That Suits Your Personality. Our Footwear Are Made With Good Material And The It Offers You Trendy Design With Long Lasting Performance."
+    },
+    {
+     "description": "GREAT COMFORT & PREMIUM MATERIAL : The World wear footwear Shoe matches a first-class feeling of comfort with iconic World wear footwear style and soul. It features a unique construction for a seamless fit, while its outsole adds a visible pu-Sole unit for enhanced cushioning."
+    }
+   ]
+  },
+  {
+   "name": "asian LigeroNation Men's Mesh Wonder-13 Black Sports & Running Shoes for Men & Boys - Casual Walking/Gymwear Shoe",
+   "url": "https://www.amazon.in/BOLTT-LigeroNation-Wonder-13-Sports-Running/dp/B07ZXLK5YS/ref=sr_1_24?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-24",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/41asLsa1abL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: Rubber"
+    },
+    {
+     "description": "✅Best for: Competitive road racing, track workouts✔️"
+    },
+    {
+     "description": "✅Comfortable quality footwear light weight attractive design multi purpose✔️"
+    },
+    {
+     "description": "✅Lifestyle:- sports,running ,walking, gym, casual, sneakers, partywear✔️"
+    },
+    {
+     "description": "✅Ultra thin layer of high abrasion rubber strategically placed on the outsole for targeted traction✔️"
+    },
+    {
+     "description": "✅Care Instruction :- Rotate Your Pair Of Shoes Once Every Other Day, Allowing Them To De-Odorize And Retain Their Shapes. Use Shoe Bags To Prevent Any Stains Or Mildew. Just Wipe With Clean, Dry Cloth To Remove Dirt.✔️"
+    }
+   ]
+  },
+  {
+   "name": "AMIFAA Ultralight Sports & Running Shoes for Men & Boys",
+   "url": "https://www.amazon.in/ALICON-Ultralight-Sports-Running-Shoes/dp/B07WFG93D3/ref=sr_1_25?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-25",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/415whAuT-CL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "✅Material: mesh✔️"
+    },
+    {
+     "description": "✅Light weight shoes✔️"
+    },
+    {
+     "description": "✅Closure type: lace-up✔️"
+    },
+    {
+     "description": "✅Specially designed for Indian Men's feet✔️"
+    },
+    {
+     "description": "✅Care Instructions :- Clean your shoes with Synthetic cleaner or shampoo, and use a good quality brush to remove loose surface dirt; if your shoes are wet after cleaning, let them air-dry before your proceed with the next step; dry shoes in room temperature only and never expose them to the sun, heat from the sun will cause the leather to shrink, wrinkle, harden, dry, and crack.✔️"
+    }
+   ]
+  },
+  {
+   "name": "Men's Running Shoes",
+   "url": "https://www.amazon.in/Sparx-Mens-Orange-Running-Shoes/dp/B01N8TVC4G/ref=sr_1_26?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-26",
+   "price": "818",
+   "image": "https://m.media-amazon.com/images/I/91ysYq8AuCL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: manmade"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material Type: Mesh"
+    },
+    {
+     "description": "Lifestyle: Casual"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 30 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Synthetic Leather Boots",
+   "url": "https://www.amazon.in/Kraasa-4155-Csual-Boots-Men/dp/B07B3VMWCQ/ref=sr_1_27?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-27",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/71SGYXv8AUL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: leather"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material : synthetic leather"
+    },
+    {
+     "description": "Design : solid"
+    },
+    {
+     "description": "Sole : airmix"
+    },
+    {
+     "description": "Type: Casual shoes"
+    }
+   ]
+  },
+  {
+   "name": "Men's Blue Mesh Sports Shoes",
+   "url": "https://www.amazon.in/aadi-Mens-Blue-Sports-Shoes/dp/B07F34L53V/ref=sr_1_28?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-28",
+   "price": "339",
+   "image": "https://m.media-amazon.com/images/I/51cveGGO0IL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: Airmix"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "PRODUCT TYPE : Running Sport Shoes For Men's"
+    },
+    {
+     "description": "COLOUR : Blue"
+    },
+    {
+     "description": "FEATURES : Extremely lightweight material, Well Cushioned Insole Shoes."
+    },
+    {
+     "description": "DISCLAIMER : Product colour may slightly vary due to photographic lighting sources or your monitor setting"
+    },
+    {
+     "description": "CARE INSTRUCTIONS : Allow your pair of shoes to air and deodorize at regular basis use shoe bags to prevent any stains or mildew dust any dry dirt from the surface using a clean cloth do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Synthetic Formal Slip On Shoe(Rubber Comfort Sole)",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_shoes_sr_pg1_1?ie=UTF8&adId=A05946501HSQ13899LQ1G&url=%2FSir-Corbett-Synthetic-Formal-Comfort%2Fdp%2FB07SJTRTZW%2Fref%3Dsr_1_29_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573972525%26s%3Dshoes%26sr%3D1-29-spons%26psc%3D1&qualifier=1573972525&id=1107687575420266&widgetName=sp_mtf",
+   "price": "854",
+   "image": "https://m.media-amazon.com/images/I/61gwHsnX2bL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Shoe Width: Medium"
+    },
+    {
+     "description": "Material: Synthetic"
+    },
+    {
+     "description": "Sole: Rubber"
+    },
+    {
+     "description": "Lifestyle: Formal And Party Wear"
+    },
+    {
+     "description": "Care Instructions:Can Be Cleaned With A Cotton Cloth When Needed Afterwards Can Apply Any Normal Shoe Shinner Or Shoe Polish"
+    },
+    {
+     "description": "Warranty: Against Manufacturing Defects"
+    }
+   ]
+  },
+  {
+   "name": "Men's Bounder-Wolfston Sneakers",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_shoes_sr_pg1_2?ie=UTF8&adId=A10151451Y3BTQO1667SV&url=%2FSkechers-Mens-Bounder-Wolfston-Sneakers-8-52506-NVY%2Fdp%2FB07ND46QWZ%2Fref%3Dsr_1_30_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573972525%26s%3Dshoes%26sr%3D1-30-spons%26psc%3D1&qualifier=1573972525&id=1107687575420266&widgetName=sp_mtf",
+   "price": "4,999",
+   "image": "https://m.media-amazon.com/images/I/815IqHDsI2L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Shoe Width: Medium"
+    },
+    {
+     "description": "Material Type: Mesh"
+    },
+    {
+     "description": "Lifestyle: Casual"
+    },
+    {
+     "description": "Closure Type: Slip On"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 90 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth; do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Men Multicolor Casual Sneakers (Grey)",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_shoes_sr_pg1_3?ie=UTF8&adId=A0599551Q9CPYXJFXEHT&url=%2FMB-Mens-Blue-Casual-Sneakers%2Fdp%2FB07NQL9GCC%2Fref%3Dsr_1_31_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573972525%26s%3Dshoes%26sr%3D1-31-spons%26psc%3D1&qualifier=1573972525&id=1107687575420266&widgetName=sp_mtf",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/71zH1hnYDlL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: Airmax"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Sole: Airmax"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Outer material: mesh PU, crafted to provide the maximum comfy and stylish look"
+    },
+    {
+     "description": "Long-lasting durable and light weight for extra comfort"
+    },
+    {
+     "description": "Care instructions: rotate your pair of shoes once every other day, allowing them to deodorize and retain their shapes, use shoe bags to prevent any stains or mildew, dust any dry dirt from the surface using a clean cloth, do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Ultralight Dancing & Sport Running Shoes for Men/Boys",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_shoes_sr_pg1_4?ie=UTF8&adId=A01198192CZ5Z58TLG6TE&url=%2FSYDNEY-SHOES-Ultralight-Dancing-Running%2Fdp%2FB07YG5X8BN%2Fref%3Dsr_1_32_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573972525%26s%3Dshoes%26sr%3D1-32-spons%26psc%3D1&qualifier=1573972525&id=1107687575420266&widgetName=sp_mtf",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/41F+KvxdreL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Lifestyle: sports, running ,walking, gym, casual, sneakers, partywear"
+    },
+    {
+     "description": "Note: brand: Sydney Shoes"
+    },
+    {
+     "description": "Best for: competitive road racing, track workouts"
+    },
+    {
+     "description": "Comfortable quality footwear light weight attractive design multi purpose."
+    },
+    {
+     "description": "Ultra thin layer of high abrasion rubber strategically placed on the outsole for targeted traction"
+    }
+   ]
+  },
+  {
+   "name": "Men's Nitro Running and Gym Shoes",
+   "url": "https://www.amazon.in/Avant-Mens-Nitro-Running-Shoes/dp/B07NBKCG6W/ref=sr_1_33?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-33",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/71MFlZlfHwL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: ethylene vinyl acetate"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Comfortable, Stylish and Cool Daily Use Sports Shoe"
+    },
+    {
+     "description": "7mm Thick Insole - Extra thick insole for added comfort and durability"
+    },
+    {
+     "description": "Removable Insole: An insole which can be removed to accommodate a medical orthotic."
+    },
+    {
+     "description": "Ideal for Running, Training, Gym Usage, Walking and all other daily activities"
+    },
+    {
+     "description": "Warranty - As the Brand Manufacturer we take Quality extremely seriously and offer 100% Money Back or Exchange Guarantee in the event you are not 100% satisfied with your purchase of Avant Sports Shoes"
+    }
+   ]
+  },
+  {
+   "name": "Shoes Wonder 13 White Navy Blue Men's Sports Shoes",
+   "url": "https://www.amazon.in/Asian-shoes-Sports-White-Indian/dp/B01MR1PGNQ/ref=sr_1_34?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-34",
+   "price": "474",
+   "image": "https://m.media-amazon.com/images/I/61Yqky3Q6oL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Colour: White Navy Blue"
+    },
+    {
+     "description": "LifeStyle: Sports"
+    },
+    {
+     "description": "Closer : Lace Up"
+    },
+    {
+     "description": "Specially designed for Indian mens feet"
+    }
+   ]
+  },
+  {
+   "name": "Men's Callisto Running Shoes",
+   "url": "https://www.amazon.in/Lotto-Callisto-Running-Shoes-6-8907181791371/dp/B07MGRVZNP/ref=sr_1_35?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-35",
+   "price": "799",
+   "image": "https://m.media-amazon.com/images/I/71n3jnpgFHL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "Material Type: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 30 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Perfect Black Sneakers",
+   "url": "https://www.amazon.in/Jabra-Boxer-Fashionably-Quality-Casual/dp/B01HOKZ03A/ref=sr_1_36?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-36",
+   "price": "239",
+   "image": "https://m.media-amazon.com/images/I/71HpQxFcqfL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Speciality: Light Weight and comfortable"
+    },
+    {
+     "description": "Brand:Jabra"
+    },
+    {
+     "description": "Lifestyle: Casual"
+    },
+    {
+     "description": "Closure Type: Lace Up"
+    }
+   ]
+  },
+  {
+   "name": "Men's Running Sports Shoes for Men",
+   "url": "https://www.amazon.in/layasa-Mens-Running-Sports-Shoes/dp/B07NPC1SN2/ref=sr_1_37?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-37",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/81VRqh753OL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: AIR MIX"
+    },
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "Sole: Airmix"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "LifeStyle: Sports,Running,Casual"
+    },
+    {
+     "description": "Specially designed for Indian Men's feet"
+    },
+    {
+     "description": "Material Type: Mesh"
+    }
+   ]
+  },
+  {
+   "name": "Cosco Sports Running Shoes for Men",
+   "url": "https://www.amazon.in/ASIAN-Mens-Cosco-Walking-Shoes/dp/B07FS6N6PT/ref=sr_1_38?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-38",
+   "price": "624",
+   "image": "https://m.media-amazon.com/images/I/71I4zUeFtEL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA"
+    },
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "Upper Material: Mesh"
+    },
+    {
+     "description": "Sole Material: Eva"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Care Instructions: Wipe with a clean dry cloth when needed,Do not wash with detergent or in waching machine"
+    }
+   ]
+  },
+  {
+   "name": "Shoes Future-04 Blue Canvas Men Shoes",
+   "url": "https://www.amazon.in/ASIAN-Mens-Navy-Sports-Shoes/dp/B01L84T48A/ref=sr_1_39?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-39",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/61-lrK5tSiL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Colour Black"
+    },
+    {
+     "description": "Designer Shoes"
+    },
+    {
+     "description": "Lifestyle:Casual"
+    },
+    {
+     "description": "Closer: Slip on"
+    },
+    {
+     "description": "Material: Canvas"
+    }
+   ]
+  },
+  {
+   "name": "Casual Sneakers Shoe's for Men's.",
+   "url": "https://www.amazon.in/Red-Rose-Casual-Sneakers-Shoes/dp/B07L871VGC/ref=sr_1_40?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-40",
+   "price": "310",
+   "image": "https://m.media-amazon.com/images/I/611TWd7sDIL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: fabric"
+    },
+    {
+     "description": "Stylish & Trendy Look"
+    },
+    {
+     "description": "Comfortable"
+    },
+    {
+     "description": "Occasion : Office Wear, Casual, Party, and Formal"
+    },
+    {
+     "description": "Latest Fashion"
+    },
+    {
+     "description": "Care Instructions: Use shoe bags to prevent any stains, dust any dry dirt from the surface using a clean cloth."
+    }
+   ]
+  },
+  {
+   "name": "Men's Sneakers",
+   "url": "https://www.amazon.in/Sparx-Mens-Sneakers-8-India-SC0322G/dp/B0798N9C1V/ref=sr_1_41?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-41",
+   "price": "840",
+   "image": "https://m.media-amazon.com/images/I/81R4C7Q2REL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA::Pre Moulded Rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material Type: Canvas"
+    },
+    {
+     "description": "Lifestyle: Casual"
+    },
+    {
+     "description": "Closure Type: Lace up"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 30 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth; do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Latest Collection, Comfortable & Fashionable Sneaker Shoes for Women's and Girl's",
+   "url": "https://www.amazon.in/Denill-Collection-Comfortable-Fashionable-Sneaker/dp/B07LGYTYV2/ref=sr_1_42?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-42",
+   "price": "474",
+   "image": "https://m.media-amazon.com/images/I/61cDccOAn3L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: PU"
+    },
+    {
+     "description": "Specially designed for Indian Women's feet"
+    },
+    {
+     "description": "Anti-Slip Sole & 100% Pure Rubber Sole"
+    },
+    {
+     "description": "Occasion: Casual, Formal & Partywear"
+    },
+    {
+     "description": "Comfortable Movement- Allows the feet to move as naturally as possible, particularly around the toe area where maximum flexibility is required."
+    },
+    {
+     "description": "The ORIGINAL product of Denill Sold and fulfilled by Manan Collection House"
+    }
+   ]
+  },
+  {
+   "name": "Men's Canvas Casual Loafers Shoes, Pack of 5 Combo",
+   "url": "https://www.amazon.in/Chevit-Canvas-Casual-Loafers-Sneakers/dp/B07GNP8MBZ/ref=sr_1_43?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-43",
+   "price": "989",
+   "image": "https://m.media-amazon.com/images/I/81wt+S2+ntL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip-On"
+    },
+    {
+     "description": "Material: Canvas"
+    },
+    {
+     "description": "Closure: Slip-On"
+    },
+    {
+     "description": "Type: Loafers Shoes (Blue, Grey, Tan and Maroon) Pack of 5 Combo"
+    },
+    {
+     "description": "Padded FootBed, Cushioned Ankle, Shock-absorbing Anti-Skate sole."
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner."
+    }
+   ]
+  },
+  {
+   "name": "Men's Perforated Roman Sandals",
+   "url": "https://www.amazon.in/Big-Fox-Perforated-Roman-Sandals/dp/B07MBSTHXK/ref=sr_1_44?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-44",
+   "price": "664",
+   "image": "https://m.media-amazon.com/images/I/71KNErePs4L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: TPR"
+    },
+    {
+     "description": "Closure: Hook & Loop"
+    },
+    {
+     "description": "Upper : synthetic"
+    },
+    {
+     "description": "Inner : synthetic"
+    },
+    {
+     "description": "Sole: TPR"
+    },
+    {
+     "description": "Cushioned footbed."
+    },
+    {
+     "description": "Ocassion: casual/ formal"
+    }
+   ]
+  },
+  {
+   "name": "Men's Mesh Sports Running Shoes",
+   "url": "https://www.amazon.in/Lancer-HYDRA-46-Green-9-Mens-Running-Shoes/dp/B074J6GQK5/ref=sr_1_45?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-45",
+   "price": "497",
+   "image": "https://m.media-amazon.com/images/I/61VyFQ5GmrL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: manmade"
+    },
+    {
+     "description": "Outer Material : Mesh"
+    },
+    {
+     "description": "Inner Material : Synthetic"
+    },
+    {
+     "description": "Sole Material : EVA"
+    },
+    {
+     "description": "Shoe Type : Running Shoes"
+    }
+   ]
+  },
+  {
+   "name": "Shoes SuperfitNavy BlueGry Men Sports Shoes",
+   "url": "https://www.amazon.in/ASIAN-SuperfitNavy-BlueGry-Sports-Indian/dp/B07BF8VJW6/ref=sr_1_46?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-46",
+   "price": "504",
+   "image": "https://m.media-amazon.com/images/I/61cjScqzE5L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Colour:Navy Blue Gry"
+    },
+    {
+     "description": "Lifestyle:Casual"
+    },
+    {
+     "description": "Closer:velcro"
+    },
+    {
+     "description": "Material:Mesh"
+    }
+   ]
+  },
+  {
+   "name": "Men's Combo Pack of 2 Sports Shoes (Running Shoes)",
+   "url": "https://www.amazon.in/Chevit-Combo-Sports-Shoes-Running/dp/B07QKDGP6C/ref=sr_1_47?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-47",
+   "price": "571",
+   "image": "https://m.media-amazon.com/images/I/81asSehUSGL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Type: Running Shoes"
+    },
+    {
+     "description": "Padded FootBed, Cushioned Ankle, Fully adjustable straps"
+    },
+    {
+     "description": "Shock-absorbing Anti-Skate sole."
+    },
+    {
+     "description": "Colour : Blue & Brown"
+    }
+   ]
+  },
+  {
+   "name": "Mens Loafer Shoe - Synthetic Leather Slip-on Sandal - for Outdoor Formal Office Party Casual Ethnic Daily Use - Available in Tan Brown Black Blue White Color - 289M",
+   "url": "https://www.amazon.in/Emosis-Stylish-Colour-Outdoor-Formal/dp/B07F95LWWH/ref=sr_1_48?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-48",
+   "price": "450",
+   "image": "https://m.media-amazon.com/images/I/81mjlpsOVeL._AC_UL320_ML3_.jpg"
+  },
+  {
+   "name": "Men's Sneakers",
+   "url": "https://www.amazon.in/Lotto-Atlanta-White-Sneakers-9-8907181795874/dp/B07LFXB2QL/ref=sr_1_49?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-49",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/81Cyz96n+4L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Material Type: Mesh"
+    },
+    {
+     "description": "Lifestyle: Casual"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 30 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth; do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Boy's Bingo-151v Formal Shoes",
+   "url": "https://www.amazon.in/Campus-Formal-Shoes-5-India-BINGO-151V/dp/B07PGHMV9J/ref=sr_1_50?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-50",
+   "price": "698",
+   "image": "https://m.media-amazon.com/images/I/717sLafAVAL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Material Type: Synthetic"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 30 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth; do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Running Shoes",
+   "url": "https://www.amazon.in/Lancer-Orange-Running-Shoes-9-TRACK-1DGR-ORG-9/dp/B07FK3YR4J/ref=sr_1_51?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-51",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/81z9XODcA5L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "Material Type: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 15 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Vega-3 Running Shoes",
+   "url": "https://www.amazon.in/Bourge-Vega-3-Running-Shoes-8-Vega-3-R-Blue-08/dp/B07MFJT5JW/ref=sr_1_52?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-52",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/81swJXNU3cL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Product Type: Running Shoes"
+    },
+    {
+     "description": "Closure Type: Slip On"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 90 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; Use Shoe bags to prevent any stains or mildew; Dust any dry dirt from the surface using a clean cloth; Do not use Polish or Shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Running Shoes",
+   "url": "https://www.amazon.in/Bacca-Bucci-Trainers-Athletic-Shoes-Brown/dp/B07D15PY1Y/ref=sr_1_53?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-53",
+   "price": "947",
+   "image": "https://m.media-amazon.com/images/I/718Dk5TQaOL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material Type: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Toe Style: Round Toe"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    }
+   ]
+  },
+  {
+   "name": "Badminton Flash Shoes",
+   "url": "https://www.amazon.in/Nivia-Badminton-Flash-Shoes-White/dp/B018NVFDUO/ref=sr_1_54?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&smid=AT95IG9ONZD7S&sr=1-54",
+   "price": "799",
+   "image": "https://m.media-amazon.com/images/I/81hzBITuj0L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "The outer material is of Mesh & PVC Synthetic Leather with Solid & Striped heel printing. Available with rubber sole ."
+    },
+    {
+     "description": "The shoe is available with Solid & Striped printing ."
+    },
+    {
+     "description": "The Nivia Badminton shoe comes in all sizes with an attractive design."
+    },
+    {
+     "description": "The pair looks graceful while wearing ."
+    }
+   ]
+  },
+  {
+   "name": "Shoes Wonder 13 Black Red Men's Sports Shoes",
+   "url": "https://www.amazon.in/ASIAN-Shoes-Wonder-13-Firozi-Black/dp/B01N43J98K/ref=sr_1_55?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&sr=1-55",
+   "price": "474",
+   "image": "https://m.media-amazon.com/images/I/61-d9GWVcUL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Colour: Black Red"
+    },
+    {
+     "description": "LifeStyle: Sports"
+    },
+    {
+     "description": "Closer : Lace Up"
+    },
+    {
+     "description": "Specially designed for Indian Men's feet"
+    }
+   ]
+  },
+  {
+   "name": "Aster Badminton Flash Shoes, Men's",
+   "url": "https://www.amazon.in/Nivia-Aster-Badminton-Flash-Yellow/dp/B018NVF9Y4/ref=sr_1_56?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573972525&s=shoes&smid=AT95IG9ONZD7S&sr=1-56",
+   "price": "798",
+   "image": "https://m.media-amazon.com/images/I/81R25A+XdIL._AC_UL320_ML3_.jpg"
+  },
+  {
+   "name": "Men's Sneakers",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_shoes_sr_pg2_1?ie=UTF8&adId=A0457974ZPKFAILSXOII&url=%2FBond-Street-Red-Tape-BSE0071-10%2Fdp%2FB07DNR8L1F%2Fref%3Dsr_1_49_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573973269%26s%3Dshoes%26sr%3D1-49-spons%26psc%3D1&qualifier=1573973268&id=2472313801855925&widgetName=sp_atf_next",
+   "price": "898",
+   "image": "https://m.media-amazon.com/images/I/61cecxqHDfL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Shoe Width: Medium"
+    },
+    {
+     "description": "Material Type: Synthetic"
+    },
+    {
+     "description": "Lifestyle: Casual"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Toe Style: Round Toe"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    }
+   ]
+  },
+  {
+   "name": "Mens Smart Handmade Kolhapuri Slipon with Wooden Finish Button",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_shoes_sr_pg2_2?ie=UTF8&adId=A06641191ISHOUVWSPK1X&url=%2FAAUTHORITY-Handmade-Kolhapuri-Slipon-Wooden%2Fdp%2FB07H1M766N%2Fref%3Dsr_1_50_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573973269%26s%3Dshoes%26sr%3D1-50-spons%26psc%3D1&qualifier=1573973268&id=2472313801855925&widgetName=sp_atf_next",
+   "price": "999",
+   "image": "https://m.media-amazon.com/images/I/81rjpIcRz9L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Material : Leather"
+    },
+    {
+     "description": "Stylish and Comfortable"
+    },
+    {
+     "description": "Ocassion: Daily Use"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth; do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "UCB Black School Shoes with Laces",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_shoes_sr_pg2_3?ie=UTF8&adId=A03452832NEQ0ZJ8301MG&url=%2FUnited-Colors-Benetton-Black-School%2Fdp%2FB07J2CR6KB%2Fref%3Dsr_1_51_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573973269%26s%3Dshoes%26sr%3D1-51-spons%26psc%3D1&qualifier=1573973268&id=2472313801855925&widgetName=sp_atf_next",
+   "price": "2,499",
+   "image": "https://m.media-amazon.com/images/I/81DHbBZJlzL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Shoe Width: Medium"
+    },
+    {
+     "description": "CASUAL BLACK SPORTS SHOES : Designed for School Uniform dress or Sports use"
+    },
+    {
+     "description": "ULTRA LIGHTWEIGHT flexible sole for added agility and comfort. Perfect for Running & Sports such as Tennis, Badminton etc."
+    },
+    {
+     "description": "DURABLE & COMFORTABLE : Breatheable Perforated Mesh for airflow, comfort and Style."
+    },
+    {
+     "description": "MAXIMUM COMFORT with Cushioned insock soles, for a comfort support whole-day for Boys or Men."
+    },
+    {
+     "description": "TOUGH & SLIP RESISTANT OUTSOLE : Offers great traction & durability."
+    }
+   ]
+  },
+  {
+   "name": "Black Imported SYNTHTIC Men's Loafers",
+   "url": "https://www.amazon.in/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_shoes_sr_pg2_4?ie=UTF8&adId=A08181405IVGBLOJADY4&url=%2F10-TOES-SYNTHTIC-Stylish-Loafers%2Fdp%2FB07MVB6HN6%2Fref%3Dsr_1_52_sspa%3Ffbclid%3DIwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo%26keywords%3Dshoes%26qid%3D1573973269%26s%3Dshoes%26sr%3D1-52-spons%26psc%3D1&qualifier=1573973268&id=2472313801855925&widgetName=sp_atf_next",
+   "price": "799",
+   "image": "https://m.media-amazon.com/images/I/81gxdNIsp+L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Shoe Width: Medium"
+    },
+    {
+     "description": "Brand : 10 TOES"
+    },
+    {
+     "description": "Upper Material : Imported Synthetics, Lining Material : Imported Synthetics, Sole Material : PVC"
+    },
+    {
+     "description": "We are passionate about delighting our customers. Exceptionally stylish, this pair of footwear from the house of BLUE GRASS features a refined appeal to make the right impression. This pair is perfect to add sleek finesse to your casual ensemble."
+    },
+    {
+     "description": "The shoes are durable with simple care instructions for their maintenance. Dusting any dry dirt from the surface using a clean cloth and rotating your pair of shoes once every other day allows them to de-odorize and retain their shape."
+    },
+    {
+     "description": "Premium Brand ::High Qulaity fabric::100% Assurity of fabric as mention in detail"
+    }
+   ]
+  },
+  {
+   "name": "Men's Running Shoes",
+   "url": "https://www.amazon.in/Campus-Running-Shoes-8-CG-02-BLK-D-Gry-8/dp/B07KXDSWLK/ref=sr_1_53?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-53",
+   "price": "798",
+   "image": "https://m.media-amazon.com/images/I/81oJBZB9zPL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: Phylon"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material Type: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Closure Type: Slip On"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 30 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men-1200 Black Top Best Rates Training Shoes,Sports Shoes, Running Shoes for Men,Cricket Shoes,Casual Shoes,Loafers Shoes,Sneakers Shoes,Light Weight, Football Shoes,Comfortable for Men's",
+   "url": "https://www.amazon.in/Camfoot-Men-1200-Training-Sneakers-Comfortable/dp/B07YLLH7PD/ref=sr_1_54?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-54",
+   "price": "297",
+   "image": "https://m.media-amazon.com/images/I/71HieyMuWpL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: PVC"
+    },
+    {
+     "description": "Closure: Lace-Ups"
+    },
+    {
+     "description": "Sole: PVC || Closure : Lace-Ups ||Color : Black || Toe Style: Closed Toe."
+    },
+    {
+     "description": "Elevate your style with this classy pair of Casual Shoes from the house of Camfoot."
+    },
+    {
+     "description": "Top Rated, Best Rates Training Shoes,Walking Shoes,Gym Shoes ,Sports Shoes, Running Shoes For Men,Cricket Shoes,Casual Shoes,Trekking Shoes,Comfortable For Men'S"
+    },
+    {
+     "description": "The Footwear That Suits Your Personality. Our Footwear Are Made With Good Material And The It Offers You Trendy Design With Long Lasting Performance."
+    },
+    {
+     "description": "GREAT COMFORT & PREMIUM MATERIAL : The Camfoot Shoe matches a first-class feeling of comfort with iconic Camfoot style and soul. It features a unique construction for a seamless fit, while its outsole adds a visible pu-Sole unit for enhanced cushioning."
+    }
+   ]
+  },
+  {
+   "name": "Men's Synthetic Leather Formal Shoes",
+   "url": "https://www.amazon.in/Action-Shoes-Synthetic-Leather-Formal/dp/B07L4SVQZM/ref=sr_1_55?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-55",
+   "price": "549",
+   "image": "https://m.media-amazon.com/images/I/61vpIq62hhL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Lifestyle: Formal Shoes (Office, Wedding, Party and Formal)"
+    },
+    {
+     "description": "Sole Type: PVC (Extra Comfort and Light Weight)"
+    },
+    {
+     "description": "Stylish and comfortable so that you feel great even at the end of the day"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth"
+    }
+   ]
+  },
+  {
+   "name": "Men's Leather Black Formal Shoes for Men",
+   "url": "https://www.amazon.in/Stylelure-Leather-Black-Formal-Shoes/dp/B07P8F2JVP/ref=sr_1_56?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-56",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/71dL8UUL2JL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: manmade"
+    },
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "✔ Stylelure Shoes Are made from Very High Quality Material, We Never Compromise With Quality, Stylelure Is Fully Dedicated to Provide the Highest Quality Product at Minimum Possible Price Range."
+    },
+    {
+     "description": "✔ Material: Premium Synthetic leather, Sole Material: Airmix"
+    },
+    {
+     "description": "✔ Usage: Party wear, Dailywear & official uses"
+    },
+    {
+     "description": "✔ Looks: Eye catching & Comfortable"
+    },
+    {
+     "description": "✔ Package contain: 1 Pair of shoes"
+    }
+   ]
+  },
+  {
+   "name": "Women's Mesh Running Shoes",
+   "url": "https://www.amazon.in/Sparx-Womens-Running-Shoes-7-SX0088L/dp/B071SM5FGF/ref=sr_1_57?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-57",
+   "price": "845",
+   "image": "https://m.media-amazon.com/images/I/71etTobjrSL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Heel Type: flats"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    }
+   ]
+  },
+  {
+   "name": "Men's Ultra Light Running and Training Shoes",
+   "url": "https://www.amazon.in/Avant-Ultra-Light-Running-Training/dp/B07NT7P2SV/ref=sr_1_58?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-58",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/61mfHHakgmL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: ethylene vinyl acetate"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Light weight: weighs less than 220 g for uk 7"
+    },
+    {
+     "description": "7 mm thick insole extra thick insole for added comfort and durability"
+    },
+    {
+     "description": "Removable insole: an insole which can be removed to accommodate a medical orthotic"
+    },
+    {
+     "description": "For running, training, gym usage, walking, and all other daily activities"
+    },
+    {
+     "description": "Color: grey"
+    }
+   ]
+  },
+  {
+   "name": "Men's Combo Pack Of 3 Synthetic Loafers Shoes - Multicolour",
+   "url": "https://www.amazon.in/Tempo-Multicolor-Synthetic-Combo-Loafers/dp/B0756W2GWM/ref=sr_1_59?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-59",
+   "price": "649",
+   "image": "https://m.media-amazon.com/images/I/81SKDJ6YI2L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: rubber"
+    },
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Outer Material: Synthetic Leather"
+    },
+    {
+     "description": "Lifestyle:Casual"
+    },
+    {
+     "description": "Closure Type: Slip On"
+    },
+    {
+     "description": "Allow your pair of shoes to air and de-odorize at regular basis; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth; do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Prime-01 Sports Running Shoes for Men",
+   "url": "https://www.amazon.in/ASIAN-Prime-01-Running-Training-Loafers/dp/B07DXYYZ3L/ref=sr_1_60?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-60",
+   "price": "529",
+   "image": "https://m.media-amazon.com/images/I/71hT3iB+yIL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA"
+    },
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Material Name: Mesh"
+    },
+    {
+     "description": "Sole Material: Eva"
+    },
+    {
+     "description": "Closure: Slip-on"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Care Instructions: Rotate your pair of shoes once every other day, allowing them to de-odorize and retain their shapes.Use Shoe bags to prevent any stains or mildew.Dust any dry dirt from the surface using a clean cloth. Do not use Polish or Shiner."
+    }
+   ]
+  },
+  {
+   "name": "Black Formal Shoes",
+   "url": "https://www.amazon.in/BATA-Black-Leather-Formal-Shoes/dp/B07WGHDPLL/ref=sr_1_61?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-61",
+   "price": "799",
+   "image": "https://m.media-amazon.com/images/I/31dRbPPgeBL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "bata black formal shoes"
+    }
+   ]
+  },
+  {
+   "name": "Men's Vega-1 Running Shoes",
+   "url": "https://www.amazon.in/Bourge-Vega-1-Running-Shoes-8-Vega-1-Black-08/dp/B07H4T44DD/ref=sr_1_62?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-62",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/71JhEnGtlfL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Product Type: Running Shoes"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 90 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; Use Shoe bags to prevent any stains or mildew; Dust any dry dirt from the surface using a clean cloth; Do not use Polish or Shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Loire-126 Running Shoes",
+   "url": "https://www.amazon.in/Bourge-Loire-126-Running-Shoes-8-Loire-126-08/dp/B07RN7TRP8/ref=sr_1_63?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-63",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/818vRZignsL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "Outer Material: Mesh"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Toe Style: Round Toe"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Warranty Description: 90 days"
+    }
+   ]
+  },
+  {
+   "name": "Men's Mesh Bullet Range Running Shoes",
+   "url": "https://www.amazon.in/ASIAN-P-Green-Bullet-Running-B02s10cDGPG/dp/B00QH30EPK/ref=sr_1_64?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-64",
+   "price": "474",
+   "image": "https://m.media-amazon.com/images/I/71M5-l4H-aL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Care Instructions: Rotate your pair of shoes once every other day, allowing them to de-odorize and retain their shapes.Use Shoe bags to prevent any stains or mildew.Dust any dry dirt from the surface using a clean cloth. Do not use Polish or Shiner."
+    }
+   ]
+  },
+  {
+   "name": "Men's Formal Shoes",
+   "url": "https://www.amazon.in/Centrino-Brown-Formal-Shoes-9-9383-002/dp/B075Z2ZZ85/ref=sr_1_65?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-65",
+   "price": "471",
+   "image": "https://m.media-amazon.com/images/I/81KIRWY+kJL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Material: Synthetic"
+    },
+    {
+     "description": "Lifestyle: Business"
+    },
+    {
+     "description": "Product Type: Men's Formal Shoes"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 0 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; Using a Shoe-horn to wear your shoes will avoid damage to the back of your shoes; Use Shoe bags to prevent any stains or mildew"
+    }
+   ]
+  },
+  {
+   "name": "Men's Super Court Badminton Shoes",
+   "url": "https://www.amazon.in/Nivia-Super-Court-Badminton-Blue_8/dp/B01KHJTQVC/ref=sr_1_66?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&smid=AT95IG9ONZD7S&sr=1-66",
+   "price": "1,141",
+   "image": "https://m.media-amazon.com/images/I/61ucViNo-4L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Soft cushioned tongue and ankle"
+    },
+    {
+     "description": "Textured outsole with patterned grooves and lugs"
+    },
+    {
+     "description": "Reinforced heel collar, soft and padded footbed, overlay detail"
+    },
+    {
+     "description": "Badminton shoe features an asymmetrical fit that gives the foot the support and stability it needs for more accurate footwork"
+    }
+   ]
+  },
+  {
+   "name": "Men's Vega-2 Running Shoes",
+   "url": "https://www.amazon.in/Bourge-Vega-2-Running-Shoes-7-Vega-2-White-07/dp/B07MLQHGQD/ref=sr_1_67?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-67",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/71xjK1bovUL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Product Type: Running Shoes"
+    },
+    {
+     "description": "Closure Type: Slip On"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 90 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; Use Shoe bags to prevent any stains or mildew; Dust any dry dirt from the surface using a clean cloth; Do not use Polish or Shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Patent Leather Formal Shoes Formal Shoes",
+   "url": "https://www.amazon.in/Shozie-Patent-Leather-Formal-Shoes/dp/B07KXG5LQJ/ref=sr_1_68?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-68",
+   "price": "479",
+   "image": "https://m.media-amazon.com/images/I/614lLO0uh-L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Material - Patent Leather"
+    },
+    {
+     "description": "Lifestyle: Executive Formal & Daily Wear"
+    },
+    {
+     "description": "Stylish and comfortable"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Product Colour May Slightly Vary Due To Photographic Lighting Sources Or Your Monitor Settings."
+    }
+   ]
+  },
+  {
+   "name": "Hillson Nucleus ISI Marked Safety Shoe, Size-8 UK, Black",
+   "url": "https://www.amazon.in/Hillson-Nucleus-Marked-Safety-Size-8/dp/B013V4E3M2/ref=sr_1_69?fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-69",
+   "price": "879",
+   "image": "https://m.media-amazon.com/images/I/41Z2-D2EeJL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Lining: Moisture wicking breathable fabric lining"
+    },
+    {
+     "description": "Steel Toe: Can withstand an impact of over 200 J. Wide Toe for free toe movement"
+    },
+    {
+     "description": "Sole: Double density directly moulded PU sole"
+    },
+    {
+     "description": "Oil and acid resistant, anti-static"
+    }
+   ]
+  },
+  {
+   "name": "Men's MultiColored Shoes",
+   "url": "https://www.amazon.in/Ethics-Stylish-Running-Navy-Blue/dp/B07CLSG5H9/ref=sr_1_70?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-70",
+   "image": "https://m.media-amazon.com/images/I/61RN7hIcbvL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material Type: Mesh"
+    },
+    {
+     "description": "Lifestyle:Casual,Sports"
+    },
+    {
+     "description": "Closure Type: Lace-up & Silp-On"
+    },
+    {
+     "description": "Sole: Ultra Lite EVA Sole"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Sports Shoes",
+   "url": "https://www.amazon.in/layasa-Mens-Mesh-Running-Shoes/dp/B07MCZTP74/ref=sr_1_71?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-71",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/81hF8ei8yPL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: Rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "✅Lifestyle:-sports, running ,walking, gym, casual, sneakers, partywear✔️"
+    },
+    {
+     "description": "✅NOTE:- BRAND: Layasa ✔️"
+    },
+    {
+     "description": "✅Best for: Competitive road racing, track workouts✔️"
+    },
+    {
+     "description": "✅Comfortable quality footwear light weight attractive design multi purpose.✔️"
+    },
+    {
+     "description": "✅Ultra thin layer of high abrasion rubber strategically placed on the outsole for targeted traction✔️"
+    }
+   ]
+  },
+  {
+   "name": "Riya-51 Sports Shoes,Walking Shoes,Running Shoes,Gym Shoes for Women",
+   "url": "https://www.amazon.in/ASIAN-Womens-Grey-Running-Shoes/dp/B07FS2P747/ref=sr_1_72?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-72",
+   "price": "447",
+   "image": "https://m.media-amazon.com/images/I/61Kk8qMByuL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA"
+    },
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "Upper Material: Mesh"
+    },
+    {
+     "description": "Sole Material: Eva"
+    },
+    {
+     "description": "Closure: Slip-On"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Care Instructions: Wipe with a clean, dry cloth when needed Do not wash with detergent or in washing machine"
+    }
+   ]
+  },
+  {
+   "name": "Men's Mesh Loafers",
+   "url": "https://www.amazon.in/Sparx-SM-214-Navy-Casual-Shoes/dp/B07D7RWNNM/ref=sr_1_73?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-73",
+   "price": "809",
+   "image": "https://m.media-amazon.com/images/I/81l2SlMpStL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Lifestyle: Casual"
+    },
+    {
+     "description": "Closure type: Lace up"
+    },
+    {
+     "description": "Warranty type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 30 days"
+    },
+    {
+     "description": "Care instructions: Allow your pair of shoes to air and de-odorize at regular basis; using a shoe-horn to wear your shoes will avoid damage to the back of your shoes; use shoe bags to prevent any stains or mildew"
+    }
+   ]
+  },
+  {
+   "name": "Women SL-123 Sports Shoes",
+   "url": "https://www.amazon.in/Sparx-Women-SL-123-Sports-Shoes/dp/B07KF79XQQ/ref=sr_1_74?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-74",
+   "price": "898",
+   "image": "https://m.media-amazon.com/images/I/81APHaJpiUL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: EVA"
+    },
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Sole: EVA"
+    },
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Material: Fabric"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Closure Type: Slip On"
+    }
+   ]
+  },
+  {
+   "name": "Men's Vertigo Running Shoes",
+   "url": "https://www.amazon.in/Lotto-Vertigo-Black-Running-Shoes/dp/B072X23DTW/ref=sr_1_75?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-75",
+   "price": "961",
+   "image": "https://m.media-amazon.com/images/I/91RH6q3-mhL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "Material Type: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Closure Type: Lace-Up"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 90 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Vega-5 Running Shoes",
+   "url": "https://www.amazon.in/Bourge-Vega-5-Running-Shoes-9-Vega-5-09/dp/B07RQ2BCN6/ref=sr_1_76?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-76",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/81MsGrECa9L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Lifestyle: Sports"
+    },
+    {
+     "description": "Product Type: Running Shoes"
+    },
+    {
+     "description": "Closure Type: Slip On"
+    },
+    {
+     "description": "Warranty Type: Manufacturer"
+    },
+    {
+     "description": "Product warranty against manufacturing defects: 90 days"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at regular basis; Use Shoe bags to prevent any stains or mildew; Dust any dry dirt from the surface using a clean cloth; Do not use Polish or ShinerToe Style: Round Toe"
+    }
+   ]
+  },
+  {
+   "name": "Men's Air Zip Mesh Running Shoes/Trainers/Gym Shoes",
+   "url": "https://www.amazon.in/AFROJACK-Running-Shoes-Trainers-Black-8/dp/B07L5N2YHR/ref=sr_1_77?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-77",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/71+ETfMTetL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Sole: Rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Material: Mesh"
+    },
+    {
+     "description": "Lifestyle: Casual,Sports"
+    },
+    {
+     "description": "Athletic Ankle Length Fashion Sneakers"
+    }
+   ]
+  },
+  {
+   "name": "Men's Energy Afterburn Disruptor for Multiple Sports,Fashion, Party & Fun Shoes/Sneakers",
+   "url": "https://www.amazon.in/Bacca-Afterburn-Disruptor-Multiple-Sneakers-White/dp/B07S9P539D/ref=sr_1_78?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-78",
+   "price": "999",
+   "image": "https://m.media-amazon.com/images/I/61VQWxrKgjL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: Phylon-EVA+Rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "STREET STYLE DESIGN : The Fashion sneakers upper and sole are design with lightweight and eliminate the excess lining material, using the PU to overlay with micro fiber pieces, the piercing dots as embellishments, Solid Color for visual impact, showing the trend of street style."
+    },
+    {
+     "description": "ANTI-COLLISION TOE & SHOCKING : The outer toe part and sole of shoes are made of durable PU leather. It's wear-resistant and fold resistant, which can resist hard objects as well as get the rebounnding and cushioning effect when you walking.Ortholite footbed to improve a comfortable pedaling feeling and relieve foot fatigue."
+    },
+    {
+     "description": "BREATHABILITY : The mesh lining and Textile footbed make the Breathable as well as provide you a cool and comfy wear environment."
+    },
+    {
+     "description": "ANTI-SLIP : The Out sole of the Shoe is made of Two compound EVA & Rubber , that help Shoe to hold Strong Grip on the Ground."
+    },
+    {
+     "description": "WEARING OCCASION : The fashion sport shoes is suitable to wear while shopping, waliking, dating, party, running, doing exercise and other activities in your daily life."
+    }
+   ]
+  },
+  {
+   "name": "Boys & Girls School Shoes Black",
+   "url": "https://www.amazon.in/Liberty-Unisexs-Formal-Shoes-5-01Gola/dp/B07MH82D6M/ref=sr_1_79?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-79",
+   "price": "599",
+   "image": "https://m.media-amazon.com/images/I/71ObS+7B+4L._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Slip On"
+    },
+    {
+     "description": "Size-Tip: Please select the best fit/size from the updated sizes dropdown"
+    },
+    {
+     "description": "Light Weight & Smart look"
+    },
+    {
+     "description": "Padded Footbed & Impact Protection Toe"
+    },
+    {
+     "description": "Part of \"Bambino\" Series which is the latest collection of school shoes from Liberty."
+    },
+    {
+     "description": "Care Instructions: Rotate your pair of shoes once every other day, allowing them to de-odorize and retain their shapes. Dust any dry dirt from the surface using a clean cloth. Do not use Polish or Shiner."
+    }
+   ]
+  },
+  {
+   "name": "Boost Casual Smart Sneaker Shoes Design for Men",
+   "url": "https://www.amazon.in/Boost-Casual-Sneaker-Shoes-Design/dp/B07YYGT7GR/ref=sr_1_80?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-80",
+   "price": "410",
+   "image": "https://m.media-amazon.com/images/I/41u+MNtamCL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Sole: Leather & Rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Sole: Leather & Rubber"
+    },
+    {
+     "description": "Closure: Lace-Up"
+    },
+    {
+     "description": "Upper Material: P.U. leather, Sole material is Phylon"
+    },
+    {
+     "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner"
+    }
+   ]
+  },
+  {
+   "name": "Men's Formal Black Shoes",
+   "url": "https://www.amazon.in/Buwch-Mens-Black-Formal-Shoes/dp/B01D69IO36/ref=sr_1_81?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-81",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/41NMeh1soHL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "MATERIAL : You'll love this lightweight Formal Shoe It features a Patent Leatherite upper, padded collar,Slip on style for Easy fit, soft lining, cushiony memory foam insole for comfort and support, and a non-marking outsole. Manmade materials."
+    },
+    {
+     "description": "FEATURE : Extremely lightweight material , It is nice affordable shoes for everyday use, or wedding or formal occasion. Padded collar with a soft lining , Cushioned memory foam insole, This unique design and stylish Shoe is to maximize your fashion at the fairest price possible."
+    },
+    {
+     "description": "ABOUT BUWCH : We have hundreds of different casual shoes to choose from. Whether you are looking for loafers, fashion sneakers, or even dress shoes, we have something for you.Products for all types of moments, whether you are looking for back-to-school shoes for your child, looking for something new to wear to an interview, or looking for a sturdy boot for upcoming weather. BUWCH brings you comfort all day around.We have nice affordable shoes for everyday use, or wedding or formal occasion."
+    },
+    {
+     "description": "Care Instructions : Rotate your pair of shoes once every other day, allowing them to de-odorize and retain their shapes. Use Shoe bags to prevent any stains or mildew.Dust any dry dirt from the surface using a clean cloth. Do not use Polish or Shiner."
+    },
+    {
+     "description": "DISCLAIMER : \"BUWCH\" is a registered trademark. Any unauthorized sellers will certainly bear the legal consequences of Copyright Infringement."
+    }
+   ]
+  },
+  {
+   "name": "Men's Casual Sneakers Shoes/Casual Shoes Under 500",
+   "url": "https://www.amazon.in/FITRO-Casual-Sneakers-Shoes-Black/dp/B07SDLF2YH/ref=sr_1_82?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-82",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/61Lqh0NiAsL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "er Material Synthetic Leather : This material gives high fashion to your style, Light weight, easy to clean and durable.This Material Synthetic Leather create stylish casual shoes sneakers loafers running shoes gyming partywear sport shoes : This material is the combination of textiles and polyurethane So, it is environment friendly and give an authentic leather feel.These shoes are designed to retain their form and are usually very durable. They are also more water-resistant than real leather."
+    },
+    {
+     "description": "Lining Material: Synthetic Lycra"
+    },
+    {
+     "description": "Sole Material: PVC"
+    },
+    {
+     "description": "Feature: Extremely lightweight material, these are nice shoes for everyday use, or wedding .this unique design and stylish shoes are to maximize your fashion. Stylish & Trendy Look Comfortable Occasion : Office Wear, Casual, Party, and Formal Latest Fashion"
+    },
+    {
+     "description": "Care Instructions: Allow Your Pair Of Shoes To Air And De-Odorize At Regular Basis And Use Shoe Bags To Prevent Any Stains, Dust Any Dry Dirt From The Surface Using A Clean Cloth."
+    }
+   ]
+  },
+  {
+   "name": "Mens Grey Running Shoes",
+   "url": "https://www.amazon.in/WOODBAY-Mens-AIRMIX-Running-Shoes/dp/B07TYPT7Z4/ref=sr_1_83?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-83",
+   "price": "979",
+   "image": "https://m.media-amazon.com/images/I/81qh0FAOmNL._AC_UL320_ML3_.jpg"
+  },
+  {
+   "name": "Latest Collection, Comfortable & Fashionable Sneaker Shoes for Women's and Girl's",
+   "url": "https://www.amazon.in/Denill-Womens-Girls-Synthetic-Sneaker/dp/B07BH3X3V1/ref=sr_1_84?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-84",
+   "price": "474",
+   "image": "https://m.media-amazon.com/images/I/61ohMpO3O9L._AC_UL320_ML3_.jpg"
+  },
+  {
+   "name": "Ultralight Black Sports & Running Shoes Shoes for Men & Boys",
+   "url": "https://www.amazon.in/Amico-Ultralight-Black-Sports-Running/dp/B07WSD8Y7W/ref=sr_1_85?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-85",
+   "price": "499",
+   "image": "https://m.media-amazon.com/images/I/41WbYtb5JKL._AC_UL320_ML3_.jpg",
+   "details": [
+    {
+     "description": "Closure: Lace Up"
+    },
+    {
+     "description": "✅Outer material:artifical leather✔️"
+    },
+    {
+     "description": "✅Sole material: PU✔️"
+    },
+    {
+     "description": "✅Outer material: mesh PU, lifestyle: sports, casual✔️"
+    },
+    {
+     "description": "✅Speciality: light weight and convenient✔️"
+    },
+    {
+     "description": "✅Closure type: lace-up, technology: adiprene ✔️"
+    }
+   ]
+  },
+  {
+   "name": "Men's Running Shoes",
+   "url": "https://www.amazon.in/Lancer-Black-Running-Shoes-9-INDUS-12BLK-SGRN-9/dp/B07D9N57KF/ref=sr_1_86?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&sr=1-86",
+   "price": "539",
+   "image": "https://m.media-amazon.com/images/I/81gS7JTRBPL._AC_UL320_ML3_.jpg"
+  },
+  {
+   "name": "Men's Super Court Badminton Shoes",
+   "url": "https://www.amazon.in/Nivia-Super-Court-Badminton-Shoe/dp/B01KHJU0LW/ref=sr_1_87?dchild=1&fbclid=IwAR1sGKHDZzsa0f2DvgFjQyGZkrRsBaectgY3lwOJSI5f0axjqKLwf7IGtzo&keywords=shoes&qid=1573973269&s=shoes&smid=AT95IG9ONZD7S&sr=1-87",
+   "price": "917",
+   "image": "https://m.media-amazon.com/images/I/61jfyHFTmeL._AC_UL320_ML3_.jpg"
+  }
+ ]
+}
